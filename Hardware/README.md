@@ -5,6 +5,8 @@ Soldeer de header pinnen op de arsuino shield.
 
 ### Stap 2:
 Soldeer de knoppen, de condensatoren (100nF) en de weerstanden(2,2kOhm).
+Bij de smd componenten vertin je eerst 1 aansluiting, houd dit gesmolten en plaats de component op de pcb. Soldeer nu de overgebleven aansluitingen.
+
 Test nu de knoppen al door de shield op de arduino te zetten en de "test_RS485_shield" code te uploaden.
 
 ### Stap 3:

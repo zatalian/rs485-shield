@@ -22,8 +22,9 @@ Test opnieuw.
 ![leds](https://github.com/zatalian/rs485-shield/assets/160489963/8d628795-9499-48cd-bbe1-6f50da835b82)
 
 ### Stap 5:
-Soldeer de WS2812B led zorg ervoor dat deze ook juist gepolariseerd is.
+Soldeer de WS2812B led zorg ervoor dat deze juist aangesloten is.
 De markering op de WS2812B led moet naar de rechteronderhoek wijzen.
+Zie foto voor de juiste orientatie (de markering moet gelijk liggen met de hoek op de foto)
 
 ![ws2812b](https://github.com/zatalian/rs485-shield/assets/160489963/19823884-905e-4b07-bd35-524f993f54bf)
 

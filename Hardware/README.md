@@ -16,6 +16,7 @@ Soldder de led lampen en de weerstanden (220Ohm).
 zorg ervoor dat de leds juist gepolariseerd zijn.
   - voor TH leds moet de platte kant met de GND verbonden zijn.
   - voor SMD leds moet de kant met groene tekens aan de GND verbonden zijn.
+  - 
 Test opnieuw.
 
 ![smdled](https://github.com/zatalian/rs485-shield/assets/160489963/dd50626d-ffce-4543-b0b9-efc4422acc3e)

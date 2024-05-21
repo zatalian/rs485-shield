@@ -1,7 +1,7 @@
 # handleiding solderen
 
 ### Stap 1:
-Soldeer de header pinnen op de arsuino shield.
+Soldeer de header pinnen op de arduino shield.
 
 ### Stap 2:
 Soldeer de knoppen, de condensatoren (100nF) en de weerstanden(2,2kOhm).
